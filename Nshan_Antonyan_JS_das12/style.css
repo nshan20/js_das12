@@ -1,0 +1,33 @@
+.meshForGoodsMaterials{
+    width: 375px;
+    margin: auto;
+}
+.horizontalMaterialLine{
+    width: 100%;
+    height: 40px;
+    border: solid 1px #000;
+    display: flex;
+}
+.productTitles{
+    width: 75px;
+    height: 40px;
+    border-left: rgba(0, 0, 0, 0.89) solid 1px;
+}
+.productTitles h4, p{
+    text-align: center;
+    margin-top: 10px;
+}
+.productInput{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.productTitles input{
+    width: 50px;
+}
+.productButton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
